@@ -10,7 +10,7 @@
 
 import pandas as pd
 
-df=pd.read_csv("D:\Sunbeam_Internship_GenAI\GIT_Sunbeam\GenAI_94679_11-12-2025\GenAI_94679_11-12-2025\Assignments\Day_2\CSVs\products.csv")
+df=pd.read_csv("D:\Sunbeam_Internship_GenAI\GIT_Sunbeam\GenAI_94679_11-12-2025\GenAI_94679_11-12-2025\Assignments\Day_1\Assignment\CSVs\products.csv")
 
 print(df)
 print("\nEach row in clean format:")
